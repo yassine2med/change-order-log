@@ -1,0 +1,8 @@
+project,number,title,amount,days_added,status,submitted
+Building A Renovation,CO-001,Add fire-rated door at stair 2,"4,850.00",3,approved,2026-01-12
+Building A Renovation,CO-002,Replace corroded supply piping found in wall,"18,200.00",7,approved,2026-01-28
+Building A Renovation,CO-003,Delete planned ceiling tile in storage,"-2,300.00",0,approved,2026-02-04
+Building A Renovation,CO-004,Upgrade lobby lighting controls,"9,400.00",5,pending,2026-02-20
+Building A Renovation,CO-005,Extra mockup for exterior panel,"6,750.00",4,rejected,2026-02-22
+Building B Roof,CO-001,Additional roof drain,"7,125.00",2,approved,2026-02-03
+Building B Roof,CO-002,Unforeseen deck repair,"21,000.00",10,pending,2026-02-25
