@@ -1,5 +1,7 @@
 # change-order-log
 
+[![CI](https://github.com/yassine2med/change-order-log/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/change-order-log/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A SQLite log of construction change orders that keeps the running contract total, pending exposure and added days for each project.
 
 ![Screenshot](docs/screenshot.png)
